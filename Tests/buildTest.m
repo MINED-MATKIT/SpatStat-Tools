@@ -1,0 +1,1 @@
+mcc -o MATKIT_SpatStatTools -W WinMain:MATKIT_SpatStatTools -T link:exe -d C:\Users\ahmet\GitHub\SpatStat-Tools\SpatStatTools\for_testing -v C:\Users\ahmet\GitHub\SpatStat-Tools\StatsTool.mlapp -r C:\Users\ahmet\GitHub\SpatStat-Tools\SpatStatTools_resources\icon.ico 
